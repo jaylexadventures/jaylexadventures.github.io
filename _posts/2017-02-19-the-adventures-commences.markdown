@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “The Adventure Commences… online."
+title: The Adventure Commences… online.
 date: 2017-02-19 08:14:00 -0800
 categories: jekyll update
 ---
