@@ -8,4 +8,5 @@ Just to keep you updated I am working on a better theme for this webpage. I am s
 Anyhow, here is a picture of the view from our campsite over presidents day weekend, it was an amazing time and I can not wait to go again:
 
 ![campsite_photo]({{site.url}}/assets/view_from_campsite_san_clemente.jpg)
+
 Photo Credit: Justin - San Clemente Camping Adventure 2017
