@@ -1,7 +1,7 @@
 ---
 layout: post
 title: San Clemente State Beach Adventure!
-date: 2017-02-21 17:07:30 -0800
+date: 2017-02-21
 ---
 Camped at San Clemente State Beach for the first time yesterday and it was great! Bobo says she can't wait to go again. I'll update the page with more photos from yesterday's adventure soon.
 

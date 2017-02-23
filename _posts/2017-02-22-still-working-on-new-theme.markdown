@@ -1,7 +1,7 @@
 ---
 layout: post
 title: View from the campsite last adventure
-date: 2017-02-22 23:23:00 -0800
+date: 2017-02-22
 ---
 Just to keep you updated I am working on a better theme for this webpage. I am struggling to get the page to run on Github pages for whatever reason, but it does run smoothly locally using ‘$ bundle exec jekyll serve’. Hopefully I will find a solution and push out the new theme soon!
 
